@@ -4,7 +4,7 @@
 
 *I'm happy to start this course. :) *
 
-My course diary can be found here: (https://jone8.github.io/IODS-project-1/)
+My github repository can be found here: (https://github.com/jone8/IODS-project-1)
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
@@ -13,4 +13,6 @@ date()
 
 ```
 The text continues here.
+
+https://jone8.github.io/IODS-project-1/
 
