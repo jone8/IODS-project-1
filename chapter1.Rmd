@@ -1,7 +1,10 @@
 
 # About the project
+# Hi
 
-*Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you should use R Markdown syntax.*
+*I'm happy to start this course. :) *
+
+My course diary can be found here: (https://jone8.github.io/IODS-project-1/)
 
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
